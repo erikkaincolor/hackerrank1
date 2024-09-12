@@ -1,0 +1,2 @@
+[console_scripts]
+apparate = scripts.apparate:apparate

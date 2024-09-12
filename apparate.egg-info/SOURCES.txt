@@ -1,0 +1,11 @@
+setup.py
+apparate.egg-info/PKG-INFO
+apparate.egg-info/SOURCES.txt
+apparate.egg-info/dependency_links.txt
+apparate.egg-info/entry_points.txt
+apparate.egg-info/requires.txt
+apparate.egg-info/top_level.txt
+scripts/__init__.py
+scripts/apparate.py
+scripts/config.py
+scripts/spider.py
